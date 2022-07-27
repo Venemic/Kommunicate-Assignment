@@ -1,3 +1,4 @@
+Schology :
 A Solution which makes the lives of students and teachers 
 easy by availing them online schooling platform which provides 
 various features in it like using our plaigrism checker teacher 
