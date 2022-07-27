@@ -1,0 +1,12 @@
+A Solution which makes the lives of students and teachers 
+easy by availing them online schooling platform which provides 
+various features in it like using our plaigrism checker teacher 
+can detect the copied assignment instantly through color coding.
+
+We will be e helping students to grow there minds and learn online, 
+teachers in maintaining student assignments and grading them, 
+also taking care of young minds who are not able to go to school , 
+we have a solution for all of them.
+
+Github link : https://github.com/ACM-BMU/HackBMU-5.0-Team-Booleans
+Website link : https://booleans.netlify.app/auth
